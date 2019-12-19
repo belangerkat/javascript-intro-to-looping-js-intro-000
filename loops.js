@@ -26,4 +26,3 @@ function doWhileLoop(num) {
   } while (incrementVariable() < num);
   return number
 }
-  
